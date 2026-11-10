@@ -1,6 +1,8 @@
 # Gikomba Market Stall Performance Analysis
 
-**Name:** Nelly Mwangi **Cohort:** **PLP** Data Analysis Cohort 1
+**Name:** Nelly Mwangi
+
+**Cohort:** **PLP** Data Analysis Cohort 1
 
 ## Project Overview
 
